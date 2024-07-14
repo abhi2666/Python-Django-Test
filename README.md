@@ -75,3 +75,17 @@
 
 </p>
 
+4. Below is the Jenkins console output.
+
+![Screenshot (401)](https://github.com/user-attachments/assets/b9fde7de-5cf8-4f60-93b7-f2cadb5b16f9)
+
+![Screenshot (402)](https://github.com/user-attachments/assets/072bad15-e0d8-418c-a2b6-cea7a577ade5)
+
+![Screenshot (403)](https://github.com/user-attachments/assets/118ed124-8a65-46fc-8973-71f803a4b2a1)
+
+5. Test report of the Django app.
+
+![Screenshot (404)](https://github.com/user-attachments/assets/347727f2-a849-4f05-b4dd-6fe5e7417c08)
+
+6. Test cases passed Successfully.
+
